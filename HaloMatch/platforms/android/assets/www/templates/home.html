@@ -1,0 +1,36 @@
+﻿
+<ion-view view-title="Halo Match">
+    <ion-content>
+        <div  ng-controller="HomeCtrl">
+
+            <div class="bar bar-header item-input-inset">
+                <label class="item-input-wrapper">
+                    <i class="icon ion-ios-search placeholder-icon"></i>
+                    <input type="search" placeholder="Search" ng-model="gamertag" >
+                </label>
+                <button class="button button-positive" ng-click="getAllMatches()">
+                    Find Matches
+                </button>
+            </div>
+            <div class="list">
+                <div class="row item" ng-repeat="elem in matchList" style="padding:0px">
+                    <div class="col col-75" style="padding:0px; border-left:5px solid {{elem.color}}">
+                        <a class="item item-thumbnail-left" href="#">
+                            <img src="{{elem.map.mapImg}}">
+                            <h2>{{elem.gameMode}}</h2>
+                            <p>{{elem.map.mapName}}</p>
+                            <p>{{elem.matchPlaylist.hopperName}}</p>
+                        </a>
+                    </div>
+                    <div class="col" align="center" style="padding:0px">
+                        <div class="card" style="margin-left:0px; margin-right:0px">
+                            <i style="font-size:25px">{{elem.totalKills}}</i>
+                            <p>kills</p>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

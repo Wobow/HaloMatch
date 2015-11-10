@@ -1,0 +1,17 @@
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\debug\arm\resources.pri
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\debug\arm\AppxManifest.xml
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\debug\arm\CordovaApp.Phone.build.appxrecipe
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\priconfig.xml
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\layout.resfiles
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\resources.resfiles
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\pri.resfiles
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\qualifiers.txt
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\package.map.txt
+C:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\windows\build\phone\bld\_pkginfo.txt

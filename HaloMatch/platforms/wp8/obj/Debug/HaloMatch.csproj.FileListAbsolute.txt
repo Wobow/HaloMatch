@@ -1,0 +1,14 @@
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\Bin\Debug\ApplicationIcon.png
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\Bin\Debug\Background.png
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\Bin\Debug\io.cordova.myappe2785d518e9f4f6ea03055878dd7a400.dll
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\Bin\Debug\io.cordova.myappe2785d518e9f4f6ea03055878dd7a400.pdb
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\Bin\Debug\AppManifest.xaml
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\obj\Debug\App.g.cs
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\obj\Debug\MainPage.g.cs
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\obj\Debug\io.cordova.myappe2785d518e9f4f6ea03055878dd7a400.g.resources
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\obj\Debug\io.cordova.myappe2785d518e9f4f6ea03055878dd7a400.dll
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\obj\Debug\io.cordova.myappe2785d518e9f4f6ea03055878dd7a400.pdb
+c:\Users\wilyr\Documents\Visual Studio 2015\Projects\HaloMatch\HaloMatch\platforms\wp8\obj\Debug\XapCacheFile.xml
