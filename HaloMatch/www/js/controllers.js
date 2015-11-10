@@ -1,5 +1,5 @@
 angular.module('starter.controllers', [])
-
+.value('currentMatchId', { value: '0', gtype: '0' })
 .factory('MatchModel', function ($http) {
 
     var MatchModel = function (match, mapList, hopperList) {
@@ -86,10 +86,31 @@ angular.module('starter.controllers', [])
 })
 .controller('DashCtrl', function ($scope) { })
 
-.controller('HomeCtrl', function ($scope, $http, MatchModel, MapModel, HopperModel) {
+.controller('MatchCtrl', function ($scope, $http, MatchModel, MapModel, HopperModel, currentMatchId) {
+    $scope.gameId = currentMatchId.value;
+    $scope.gameType = currentMatchId.gtype;
+    $http({
+        method: 'GET',
+        url: "https://www.haloapi.com/stats/h5/" + $scope.gameType + "/matches/" + $scope.gameId,
+        headers: {
+            'Ocp-Apim-Subscription-Key': "907d6aefaabf42848c1e900229d592a7"
+        }
+    }).then(function successCallback(response) {
+        $scope.res = response;
+    }, function errorCallback(response) {
+        $scope.status = response.status;
+    });
+})
+
+.controller('HomeCtrl', function ($scope, $http, MatchModel, MapModel, HopperModel, currentMatchId) {
     $scope.mapList = [];
     $scope.matchList = [];
     $scope.hopperList = [];
+
+    $scope.setCurrentMatchTo = function (matchId, gameMode) {
+        currentMatchId.value = matchId;
+        currentMatchId.gtype = gameMode;
+    }
 
     $scope.getAllMaps = function()
     {

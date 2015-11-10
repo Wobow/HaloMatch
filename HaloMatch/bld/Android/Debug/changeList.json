@@ -7,6 +7,7 @@
     "res\\icons\\ios\\icon-60.png",
     "res\\screens\\ios\\screen-iphone-landscape-736h.png",
     "res\\icons\\windows\\StoreLogo.scale-100.png",
+    "www\\templates\\match.html",
     "res\\icons\\android\\icon-48-mdpi.png",
     "www\\templates\\tab-dash.html",
     "res\\icons\\ios\\icon-72.png",
@@ -82,7 +83,10 @@
   "deletedFilesIos": [],
   "addedPluginsIos": [],
   "deletedPluginsIos": [],
-  "changedFiles": [],
+  "changedFiles": [
+    "www\\js\\controllers.js",
+    "www\\templates\\match.html"
+  ],
   "deletedFiles": [],
   "addedPlugins": [],
   "deletedPlugins": []
